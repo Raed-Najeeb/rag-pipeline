@@ -1,0 +1,8 @@
+{"id": "rt001", "question": "When did Alan Turing die?", "expected_doc": "Alan_Turing"}
+{"id": "rt002", "question": "What is the Turing machine?", "expected_doc": "Alan_Turing"}
+{"id": "rt003", "question": "What is a transformer architecture?", "expected_doc": "Transformer_deep_learning_architecture"}
+{"id": "rt004", "question": "What is multi-head attention?", "expected_doc": "Transformer_deep_learning_architecture"}
+{"id": "rt005", "question": "What is supervised learning?", "expected_doc": "Machine_learning"}
+{"id": "rt006", "question": "What is a neural network?", "expected_doc": "Neural_network"}
+{"id": "rt007", "question": "Who are considered founders of AI as a field?", "expected_doc": "History_of_artificial_intelligence"}
+{"id": "rt008", "question": "What is the capital of France?", "expected_doc": null}
